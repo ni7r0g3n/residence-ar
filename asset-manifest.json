@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/residence-ar/static/css/main.bdda0a66.css",
-    "main.js": "/residence-ar/static/js/main.32e23a24.js",
+    "main.css": "/residence-ar/static/css/main.5c00cd07.css",
+    "main.js": "/residence-ar/static/js/main.b80d00b1.js",
     "static/js/592.a6a58937.chunk.js": "/residence-ar/static/js/592.a6a58937.chunk.js",
     "static/media/logo.svg": "/residence-ar/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/residence-ar/index.html",
-    "main.bdda0a66.css.map": "/residence-ar/static/css/main.bdda0a66.css.map",
-    "main.32e23a24.js.map": "/residence-ar/static/js/main.32e23a24.js.map",
+    "main.5c00cd07.css.map": "/residence-ar/static/css/main.5c00cd07.css.map",
+    "main.b80d00b1.js.map": "/residence-ar/static/js/main.b80d00b1.js.map",
     "592.a6a58937.chunk.js.map": "/residence-ar/static/js/592.a6a58937.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bdda0a66.css",
-    "static/js/main.32e23a24.js"
+    "static/css/main.5c00cd07.css",
+    "static/js/main.b80d00b1.js"
   ]
 }
